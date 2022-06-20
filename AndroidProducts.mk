@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_a52q.mk
+    $(LOCAL_DIR)/ghost_a52q.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_a52q-userdebug \
-    aosp_a52q-user \
-    aosp_a52q-eng
+    ghost_a52q-userdebug \
+    ghost_a52q-user \
+    ghost_a52q-eng
